@@ -1,0 +1,50 @@
+﻿﻿Luật Xì Tố VIPGAME
+
+I. BỘ BÀI.
+• Xì tố sử dụng 32 lá bài, từ 7 đến A trong bộ bài tây 52 lá. Không dùng 20 lá từ 2 đến 6.
+• Mỗi người chơi sẽ được chia tối đa 5 lá.
+
+II. LÁ BÀI.
+• Mỗi lá bài gồm có 2 phần, phần số và phần chất.
+• Giá trị của quân bài trước tiên phụ thuộc vào phần số, tiếp đến nếu phần số bằng nhau mới xét đến phần chất.
+• Độ mạnh của phần số và chất được xếp hạng như sau:
++ Phần số: A(Xì) > K(Già) > Q (Đầm) > J (Bồi) > 10 > 9 > 8 > 7.
++ Phần chất:  ♠ (Bích) >   ♥ (Cơ) >  ♦ (Dô) >  ♣ (Tép).
+
+III. LIÊN KẾT.
+Dưới đây là liên kết giữa các lá bài, xếp theo độ mạnh tăng dần:
+• Mậu thầu: các lá bài không có liên kết gì với nhau.
+VD: 10♥  7♦  9♣  J♠  K♠    
+• Đôi: có đúng 2 lá bài giống nhau về phần số.
+VD: 8♥  8♦  J♣   K♠  A♥ 
+• Thú: có đúng 2 đôi.
+VD:8♥  8♦  J♣   J♠  A♥ 
+• Sám: có đúng 3 lá giống nhau về phần số.
+VD: 8♥  8♦  8♣   J♠  A♥ 
+• Sảnh: 5 lá bài có số liên tiếp.
+VD: 8♥  9♦  10♣   J♠  Q♥ 
+• Thùng: 5 lá đồng chất.
+VD: 8♥  9♥  J♥  K♥  A♥ 
+• Cù lũ: 1 đôi và 1 sám.
+VD: 8♥  8♦  8♣  9♠   9♥  
+• Tứ quý: có đúng 4 lá bài giống nhau về phần số.
+VD: 8♥  8♦  8♣  8♠   J♥  
+• Thùng phá sảnh: 5 lá bài đồng chất có số liên tiếp.
+VD: 8♥  9♥  10♥  J♥  Q♥ 
+
+IV. CÁCH CHƠI VÀ TÍNH TIỀN.
+1. Bắt đầu: Mỗi người sẽ bỏ ra số tiền bằng 1 cược.
+2. Chia bài: Mỗi người chơi, ban đầu sẽ được chia 2 lá bài, một lá úp chỉ người chơi đó biết và một lá ngửa cho tất cả người chơi biết.
+3. Vòng tố: 
+• Các thao tác trong một vòng tố: 
++ Tố: người chơi đặt cược số tiền lớn hơn 1 cược và nhỏ hơn giới hạn tố tùy chủ phòng quy định.
++ Theo: người chơi chấp nhận đặt cược số tiền bằng với người tố.
++ Úp bỏ: người chơi úp bài, không chấp nhận mức cược của người tố, dừng tham gia ván chơi.
+• Có nhiều nhất 4 vòng tố.
+• Mỗi vòng tố sẽ có người tố đầu là người có các lá bài ngửa tạo liên kết mạnh nhất.
+• Sau một vòng tố, nếu vẫn còn người chơi Theo hoặc Tố thì mỗi người chơi sẽ được chia thêm một lá bài. Tối đa mỗi người chơi sẽ được chia thêm 3 lá bài, cộng với 2 lá được chia ban đầu là 5 lá.
+• Vòng tố thứ nhất: Bắt đầu ngay sau khi mỗi người chơi được chia 2 lá bài.
+• Vòng tố thứ hai: Bắt đầu sau khi mỗi người chơi được chia lá bài thứ 3.
+• Vòng tố thứ ba: Bắt đầu sau khi mỗi người chơi được chia lá bài thứ 4.
+• Vòng tố cuối cùng: Bắt đầu sau khi mỗi người đã được chia đủ 5 lá bài.
+• Ván đấu kết thúc tại vòng tố cuối cùng khi tất cả người chơi đã theo hoặc úp. Lúc này những người chơi chưa úp bỏ sẽ so bài với nhau. Người chơi nào có liên kết 5 lá bài lớn nhất sẽ thắng và được số tiền gà. 

@@ -1,0 +1,132 @@
+
+Jack_o'_Lantern.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 0
+  rotate: false
+  xy: 2, 34
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+cuong
+  rotate: false
+  xy: 402, 42
+  size: 23, 18
+  orig: 24, 19
+  offset: 1, 1
+  index: -1
+effect_1
+  rotate: false
+  xy: 461, 52
+  size: 16, 74
+  orig: 17, 76
+  offset: 1, 1
+  index: -1
+effect_2
+  rotate: true
+  xy: 325, 26
+  size: 14, 77
+  orig: 14, 78
+  offset: 0, 0
+  index: -1
+effect_3
+  rotate: true
+  xy: 325, 42
+  size: 17, 75
+  orig: 17, 76
+  offset: 0, 0
+  index: -1
+effect_eat
+  rotate: false
+  xy: 394, 62
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+effect_lua_xanh_1
+  rotate: false
+  xy: 165, 53
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+effect_lua_xanh_2
+  rotate: false
+  xy: 325, 61
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+effect_vet sang
+  rotate: false
+  xy: 96, 49
+  size: 67, 77
+  orig: 69, 78
+  offset: 1, 0
+  index: -1
+lua_1
+  rotate: true
+  xy: 234, 2
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+lua_2
+  rotate: false
+  xy: 479, 86
+  size: 29, 40
+  orig: 29, 41
+  offset: 0, 1
+  index: -1
+lua_3
+  rotate: true
+  xy: 46, 3
+  size: 29, 42
+  orig: 29, 43
+  offset: 0, 1
+  index: -1
+lua_4
+  rotate: true
+  xy: 2, 2
+  size: 30, 42
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+lua_5
+  rotate: true
+  xy: 277, 3
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+mat
+  rotate: true
+  xy: 188, 2
+  size: 49, 44
+  orig: 50, 44
+  offset: 1, 0
+  index: -1
+xoay_1
+  rotate: false
+  xy: 234, 81
+  size: 89, 45
+  orig: 91, 46
+  offset: 1, 0
+  index: -1
+xoay_2
+  rotate: false
+  xy: 96, 2
+  size: 90, 45
+  orig: 92, 46
+  offset: 1, 0
+  index: -1
+xoay_3
+  rotate: false
+  xy: 234, 34
+  size: 89, 45
+  orig: 91, 46
+  offset: 1, 0
+  index: -1

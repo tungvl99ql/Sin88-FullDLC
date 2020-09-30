@@ -1,0 +1,63 @@
+﻿Luật Mậu Binh VIPGAME
+
+I. BỘ BÀI.
+• Mậu binh sử dụng bộ bài tây 52 lá, mỗi  người chơi được chia 13 lá xếp thành 3 chi. Chi 1 và chi 2 có 5 lá, chi 3 có 3 lá.
+
+II. LÁ BÀI.
+• Mỗi lá bài tây gồm hai phần, phần số và phần chất. Tuy nhiên, trong Mậu Binh chúng ta chỉ quan tâm đến phần số mà không cần quan tâm đến phần chất.
+• Xếp hạng độ mạnh của các lá bài như sau:
+A (Xì) > K (Già) > Q (Đầm) > J (Bồi) > 10 > 9 > 8 > 7 > 6 > 5 > 4 > 3 >2.
+
+III. LIÊN KẾT.
+Dưới đây là liên kết giữa các lá bài trong cùng một chi, xếp theo độ mạnh tăng dần:
+• Mậu thầu: các lá bài không có liên kết gì với nhau.
+VD: 10♥  7♦  9♣  J♠  K♠    
+• Đôi: có đúng 2 lá bài giống nhau về phần số.
+VD: 8♥  8♦  J♣   K♠  A♥ 
+• Thú: có đúng 2 đôi.
+VD:8♥  8♦  J♣   J♠  A♥ 
+• Sám: có đúng 3 lá giống nhau về phần số.
+VD: 8♥  8♦  8♣   J♠  A♥ 
+• Sảnh: 5 lá bài có số liên tiếp.
+VD: 8♥  9♦  10♣   J♠  Q♥ 
++ Sảnh lớn: 5 lá bài có số liên tiếp từ 10 đến A.
+VD: 10♥  J♦  Q♣   K♠  A♥ 
++ Sảnh nhỏ: 5 lá bài có số liên tiếp từ A đến 5.
+VD: A♥  2♦  3♣   4♠  5♥ 
++ Độ mạnh: Sảnh lớn > Sảnh thường > Sảnh nhỏ.
+• Thùng: 5 lá đồng chất.
+VD: 8♥  9♥  J♥  K♥  A♥ 
+• Cù lũ: 1 đôi và 1 sám.
+VD: 8♥  8♦  8♣  9♠   9♥  
+• Tứ quý: có đúng 4 lá bài giống nhau về phần số.
+VD: 8♥  8♦  8♣  8♠   J♥  
+• Thùng phá sảnh: 5 lá bài đồng chất có số liên tiếp.
++ Thùng phá sảnh lớn: 5 lá bài đồng chất có số liên tiếp từ 10 đến A.
+VD: 10♥  J♥  Q♥  K♥  A♥
++ Thùng phá sảnh thường: 5 lá bài đồng chất có số liên tiếp.
+VD: 8♥  9♥  10♥  J♥  Q♥ 
++ Thùng phá sảnh nhỏ: 5 lá bài đồng chất có số liên tiếp từ A đến 5.
+VD: A♥  2♥  3♥  4♥  5♥
++ Độ mạnh: Thùng phá sảnh lớn > Thùng phá sảnh thường  > Thùng phá sảnh nhỏ.
+
+IV. MẬU BINH.
+1. Mậu binh thắng trắng: khi được mậu binh thắng trắng, người chơi sẽ ngay lập tức thắng ngay ván đấu mà không cần đọ từng chi. Dưới đây là các trường hợp mậu binh thắng trắng xếp theo độ mạnh tăng dần.
+• Ba cái sảnh: có 3 cái sảnh tại cả 3 chi. Người chơi thắng sẽ được 3 lần tiền cược.
+• Ba cái thùng: có 3 cái thùng tại cả 3 chi. Người chơi thắng sẽ được 3 lần tiền cược.
+• Lục phé bôn: có 6 đôi trong 13 lá. Người chơi thắng sẽ được 3 lần tiền cược.
+• Năm đôi 1 sám: có 5 đôi và 1 sám trong 13 lá. Người chơi thắng sẽ được 6 lần tiền cược.
+• Sảnh rồng: có 13 lá không đồng chất có số liên tiếp từ 2 đến A. Người chơi thắng sẽ được 12 lần tiền cược.
+• Rồng cuốn: có 13 lá đồng chất có số liên tiếp từ 2 đến A. Người chơi thắng sẽ được 24 lần tiền cược.
+2. Mậu binh thường: khi được mậu binh thường,  người chơi sẽ được số tiền cược nhiều hơn so với các liên kết bình thường. Dưới đây là các trường hợp mậu binh thường xếp theo số tiền cược ăn được tăng dần..
+• Cù lũ chi 2: người chơi thắng sẽ được 2 lần tiền cược.
+• Sám chi cuối: người chơi thắng sẽ được 3 lần tiền cược.
+• Tứ quý chi đầu: người chơi thắng sẽ được 4 lần tiền cược.
+• Thùng phá sảnh chi đầu: người chơi thắng sẽ được 5 lần tiền cược.
+• Tứ quý chi 2: người chơi thắng sẽ được 8 lần tiền cược.
+• Thùng phá sảnh chi 2: người chơi thắng sẽ được 10 lần tiền cược.
+
+V. CÁCH CHƠI VÀ TÍNH TIỀN.
+• Mỗi người chơi được chia 13 lá bài xếp vào 3 chi. Chi 1 và chi 2 gồm có 5 lá, chi 3 gồm có 3 lá. 
+• Người chơi phải xếp bài sao cho bài trong một chi tạo thành các liên kết có độ mạnh theo thứ tự: chi 1 > chi 2 > chi 3.
+• Sau khi tất cả người chơi xếp xong, mỗi người chơi sẽ so lần lượt các chi với nhau, người chơi có chi với liên kết lớn hơn thắng sẽ được số tiền cược, người chơi có chi với liên kết nhỏ hơn thua sẽ mất số tiền cược tương ứng.
+• Trong trường hợp người chơi thắng cả 3 chi ( ăn sập hầm) thì sẽ được 9 lần tiền cược so với bình thường.

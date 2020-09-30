@@ -1,0 +1,23 @@
+﻿Luật Cờ Tướng VIPGAME
+I. LUẬT DI CHUYỂN CÁC QUÂN CỜ.
+• Tướng: Mỗi nước đi một ô, đi ngang hoặc dọc. Tướng luôn ở trong phạm vi cung. "Cung" gồm 4 hình vuông nhỏ được gạch đường chéo.
+• Sĩ: Đi chéo, mỗi nước một ô. Sĩ luôn ở trong "Cung" giống như Tướng.
+• Tượng: Đi chéo 2 ô mỗi nước, đi ngang hoặc dọc. Tượng không được phép qua sông sang bàn cờ của đối phương. Nước đi của Tượng không hợp lệ khi có quân cờ chặn giữa đường.
+• Xe: Đi ngang hoặc dọc khắp bàn cờ miễn không có quân khác cản trên đường đi.
+• Mã: Đi ngang 2 ô và đi dọc 1 ô ( hoặc đi dọc 2 ô và đi ngang 1 ô) cho mỗi nước đi. Nếu có quân khác nằm cạnh mã và cản đường ngang 2 hoặc cản đường dọc 2, thì mã không được đi đường đó
+• Pháo: Đi ngang hoặc dọc giống như Xe. Điểm khác là khi Pháo muốn ăn quân của đối phương thì giữa Pháo và quân muốn ăn phải có quân cản ở giữa.
+• Tốt: Đi mỗi nước một ô. Nếu Tốt chưa qua sông thì chỉ được đi thẳng tiến. Khi đã vượt qua sông có thể đi ngang hoặc đi thẳng tiến, mỗi nước một ô.
+II. THUẬT NGỮ.
+• Ăn quân: Khi quân di chuyển đến một vị trí đang đứng của quân đối phương, quân đối phương bị ăn và bị lấy ra khỏi bàn cờ.
+• Chống tướng: 2 tướng trên bàn không được nằm trên cùng một cột dọc mà không có quân cản ở giữa.Nước đi để 2 quân tướng ở vị trí chống tướng là không hợp lệ.
+• Chiếu tướng: Bất kỳ nước đi nào làm cho Tướng của đối phương bị ăn ở nước tiếp theo.
+• Đuổi quân: Một quân di chuyển đến vị trí mà nó có thể bắt quân nào đó của đối phương(trừ Tướng) trong nước tiếp. Hoặc một nước đi làm cho Pháo chiếu quân đối phương.Loại trừ các ngoại lệ sau:
++ Khi nước đi của Tướng hoặc Tốt chiếu quân đối phương. Nước đi này không gọi là nước đuổi quân.
++ Nước đi hăm dọa Tốt chưa sang sông không được cho là nước đuổi quân.
++ Nước thí quân không được gọi là nước đuổi quân.
+III. KẾT THÚC TRẬN ĐẤU.
+• Chiếu bí: Nếu một bên chiếu (bắt Tướng) và đối phương không còn khả năng đỡ. Bên chiếu tướng thắng.
+• Hết nước đi: Nếu một bến tới lượt đi nhưng không có nước hợp lệ để đi, bên đó sẽ bị thua.
+• Khi một hoặc 2 bên vi phạm luật cao cấp.
+• Xin thua: Người chơi xin đầu hàng và chấp nhận thua ván chơi.
+• Cầu hòa: Người chơi cầu hòa và đối phương đồng ý. Ván chơi được xử hòa.

@@ -1,0 +1,672 @@
+{
+"skeleton": {
+	"hash": "fMNGHIJDekXveXFX99Jmv+CW0Zc",
+	"spine": "3.6.52",
+	"width": 147,
+	"height": 132,
+	"images": "./Pvz2/Pvz2/animation/4 -Redstinger/images/"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 14.74, "rotation": 76.05, "x": -0.93, "y": -6.41 },
+	{ "name": "bone2", "parent": "bone", "length": 5.47, "rotation": 14.95, "x": 14.74 },
+	{ "name": "bone3", "parent": "bone2", "length": 25.74, "rotation": -6.35, "x": 5.47 },
+	{ "name": "bone4", "parent": "bone3", "length": 27.03, "rotation": 98.55, "x": 2.75, "y": 0.6 },
+	{ "name": "bone5", "parent": "bone4", "length": 30.99, "rotation": -33.16, "x": 0.28, "y": 0.12 },
+	{ "name": "bone6", "parent": "bone5", "length": 33.45, "rotation": -115.04, "x": 0.55, "y": -0.95 },
+	{ "name": "bone7", "parent": "bone6", "length": 26.3, "rotation": -23.27, "x": 0.92, "y": -1.31 },
+	{ "name": "bone8", "parent": "root", "length": 12.85, "rotation": -161.49, "x": 0.93, "y": -6.6 },
+	{ "name": "bone9", "parent": "root", "length": 9.87, "rotation": -42.17, "x": 2.2, "y": -5.49 },
+	{ "name": "bone10", "parent": "root", "length": 12.83, "rotation": 1.66, "x": 3.31, "y": -4.16 },
+	{ "name": "bone11", "parent": "root", "length": 14.28, "rotation": -177.02, "x": 1.19, "y": -4.32 }
+],
+"slots": [
+	{ "name": "Polygon 1", "bone": "root", "attachment": "cricle sang 1" },
+	{ "name": "Polygon 1 copy", "bone": "root", "attachment": "cricle sang 2" },
+	{ "name": "Layer 18", "bone": "bone", "attachment": "than cay" },
+	{ "name": "Layer 14", "bone": "bone11", "attachment": "la chan1" },
+	{ "name": "Layer 15", "bone": "bone10", "attachment": "Layer 15" },
+	{ "name": "Layer 16", "bone": "bone8", "attachment": "la chan 3" },
+	{ "name": "Layer 17", "bone": "bone9", "attachment": "la chan 4" },
+	{ "name": "Layer 4", "bone": "bone2", "attachment": "cuong" },
+	{ "name": "Layer 7", "bone": "bone6", "attachment": "la3" },
+	{ "name": "Layer 5", "bone": "bone5", "attachment": "la 1" },
+	{ "name": "Layer 6", "bone": "bone7", "attachment": "la2" },
+	{ "name": "Layer 8", "bone": "bone4", "attachment": "la4" },
+	{ "name": "Layer 12", "bone": "root", "attachment": "la quay1" },
+	{ "name": "Layer 12 copy", "bone": "root", "attachment": "la quay2" },
+	{ "name": "Layer 12 copy 2", "bone": "root", "attachment": "la quay3" },
+	{ "name": "Layer 12 copy 3", "bone": "root", "attachment": "la quay4" },
+	{ "name": "Layer 21", "bone": "bone3", "attachment": "dau" },
+	{ "name": "Layer 24", "bone": "bone3", "attachment": "mat" },
+	{ "name": "mu", "bone": "bone3", "attachment": "mu" },
+	{ "name": "Layer 25", "bone": "root", "attachment": "hao quang 1" },
+	{ "name": "Layer 25 copy", "bone": "root", "attachment": "hao quang 2" }
+],
+"skins": {
+	"default": {
+		"Layer 12": {
+			"la quay1": { "path": "Layer 12", "x": 0.23, "y": 25.04, "width": 112, "height": 59 }
+		},
+		"Layer 12 copy": {
+			"la quay2": { "path": "Layer 12 copy", "x": 0.23, "y": 25.04, "width": 112, "height": 59 }
+		},
+		"Layer 12 copy 2": {
+			"la quay3": { "path": "Layer 12 copy 2", "x": 0.23, "y": 25.04, "width": 110, "height": 57 }
+		},
+		"Layer 12 copy 3": {
+			"la quay4": { "path": "Layer 12 copy 3", "x": 0.23, "y": 25.04, "width": 110, "height": 57 }
+		},
+		"Layer 14": {
+			"la chan1": { "path": "Layer 14", "x": 15.01, "y": 0.36, "rotation": 177.02, "width": 30, "height": 14 }
+		},
+		"Layer 15": {
+			"Layer 15": { "x": 12.33, "y": -0.14, "rotation": -1.66, "width": 30, "height": 12 }
+		},
+		"Layer 16": {
+			"la chan 3": { "path": "Layer 16", "x": 14.69, "y": 0.73, "rotation": 161.49, "width": 32, "height": 15 }
+		},
+		"Layer 17": {
+			"la chan 4": { "path": "Layer 17", "x": 12.15, "y": 2.27, "rotation": 42.17, "width": 33, "height": 15 }
+		},
+		"Layer 18": {
+			"than cay": { "path": "Layer 18", "x": 6.9, "y": -1.02, "rotation": -76.05, "width": 19, "height": 27 }
+		},
+		"Layer 21": {
+			"dau": { "path": "Layer 21", "x": 33.57, "y": 7.96, "rotation": -84.65, "width": 77, "height": 72 }
+		},
+		"Layer 24": {
+			"mat": { "path": "Layer 24", "x": 28.94, "y": -1.51, "rotation": -84.65, "width": 63, "height": 47 }
+		},
+		"Layer 25": {
+			"hao quang 1": { "path": "Layer 25", "x": -1.27, "y": 22.54, "width": 147, "height": 132 }
+		},
+		"Layer 25 copy": {
+			"hao quang 2": { "path": "Layer 25 copy", "x": -1.27, "y": 22.54, "width": 147, "height": 132 }
+		},
+		"Layer 4": {
+			"cuong": { "path": "Layer 4", "x": 1.11, "y": -1.62, "rotation": -91.01, "width": 30, "height": 15 }
+		},
+		"Layer 5": {
+			"la 1": { "path": "Layer 5", "x": 36.86, "y": 4.5, "rotation": -150.04, "width": 37, "height": 20 }
+		},
+		"Layer 6": {
+			"la2": { "path": "Layer 6", "x": 29.12, "y": -1.48, "rotation": -11.72, "width": 48, "height": 23 }
+		},
+		"Layer 7": {
+			"la3": { "path": "Layer 7", "x": 38.15, "y": -3.61, "rotation": -34.99, "width": 32, "height": 23 }
+		},
+		"Layer 8": {
+			"la4": { "path": "Layer 8", "x": 25.73, "y": 4.19, "rotation": 176.8, "width": 59, "height": 30 }
+		},
+		"Polygon 1": {
+			"cricle sang 1": { "path": "Polygon 1", "x": -0.27, "y": -10.46, "width": 121, "height": 64 }
+		},
+		"Polygon 1 copy": {
+			"cricle sang 2": { "path": "Polygon 1 copy", "x": 0.23, "y": -10.96, "width": 120, "height": 63 }
+		},
+		"mu": {
+			"mu": { "path": "Layer 13", "x": 53.36, "y": 21.87, "rotation": -84.65, "width": 87, "height": 38 }
+		}
+	}
+},
+"animations": {
+	"active": {
+		"slots": {
+			"Layer 5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 6": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 7": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 8": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 12": {
+				"attachment": [
+					{ "time": 0, "name": "la quay1" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.1333, "name": "la quay1" },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2667, "name": "la quay1" },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.4, "name": "la quay1" },
+					{ "time": 0.4333, "name": null },
+					{ "time": 0.5333, "name": "la quay1" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.6667, "name": "la quay1" },
+					{ "time": 0.7, "name": null },
+					{ "time": 0.8, "name": "la quay1" },
+					{ "time": 0.8333, "name": null },
+					{ "time": 0.9333, "name": "la quay1" },
+					{ "time": 0.9667, "name": null },
+					{ "time": 1.0667, "name": "la quay1" },
+					{ "time": 1.1, "name": null },
+					{ "time": 1.2, "name": "la quay1" },
+					{ "time": 1.2333, "name": null },
+					{ "time": 1.3333, "name": "la quay1" },
+					{ "time": 1.3667, "name": null },
+					{ "time": 1.4667, "name": "la quay1" },
+					{ "time": 1.5, "name": null },
+					{ "time": 1.6, "name": "la quay1" },
+					{ "time": 1.6333, "name": null },
+					{ "time": 1.7333, "name": "la quay1" },
+					{ "time": 1.7667, "name": null },
+					{ "time": 1.8667, "name": "la quay1" },
+					{ "time": 1.9, "name": null },
+					{ "time": 2, "name": "la quay1" }
+				]
+			},
+			"Layer 15": {
+				"attachment": [
+					{ "time": 0, "name": "Layer 15" }
+				]
+			},
+			"Layer 25": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 12 copy": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "la quay2" },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.1667, "name": "la quay2" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3, "name": "la quay2" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4333, "name": "la quay2" },
+					{ "time": 0.4667, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.5667, "name": "la quay2" },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6667, "name": null },
+					{ "time": 0.7, "name": "la quay2" },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8333, "name": "la quay2" },
+					{ "time": 0.8667, "name": null },
+					{ "time": 0.9333, "name": null },
+					{ "time": 0.9667, "name": "la quay2" },
+					{ "time": 1, "name": null },
+					{ "time": 1.0667, "name": null },
+					{ "time": 1.1, "name": "la quay2" },
+					{ "time": 1.1333, "name": null },
+					{ "time": 1.2, "name": null },
+					{ "time": 1.2333, "name": "la quay2" },
+					{ "time": 1.2667, "name": null },
+					{ "time": 1.3333, "name": null },
+					{ "time": 1.3667, "name": "la quay2" },
+					{ "time": 1.4, "name": null },
+					{ "time": 1.4667, "name": null },
+					{ "time": 1.5, "name": "la quay2" },
+					{ "time": 1.5333, "name": null },
+					{ "time": 1.6, "name": null },
+					{ "time": 1.6333, "name": "la quay2" },
+					{ "time": 1.6667, "name": null },
+					{ "time": 1.7333, "name": null },
+					{ "time": 1.7667, "name": "la quay2" },
+					{ "time": 1.8, "name": null },
+					{ "time": 1.8667, "name": null },
+					{ "time": 1.9, "name": "la quay2" },
+					{ "time": 1.9333, "name": null }
+				]
+			},
+			"Layer 12 copy 2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0667, "name": "la quay3" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": "la quay3" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3333, "name": "la quay3" },
+					{ "time": 0.3667, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4667, "name": "la quay3" },
+					{ "time": 0.5, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": "la quay3" },
+					{ "time": 0.6333, "name": null },
+					{ "time": 0.6667, "name": null },
+					{ "time": 0.7333, "name": "la quay3" },
+					{ "time": 0.7667, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8667, "name": "la quay3" },
+					{ "time": 0.9, "name": null },
+					{ "time": 0.9333, "name": null },
+					{ "time": 1, "name": "la quay3" },
+					{ "time": 1.0333, "name": null },
+					{ "time": 1.0667, "name": null },
+					{ "time": 1.1333, "name": "la quay3" },
+					{ "time": 1.1667, "name": null },
+					{ "time": 1.2, "name": null },
+					{ "time": 1.2667, "name": "la quay3" },
+					{ "time": 1.3, "name": null },
+					{ "time": 1.3333, "name": null },
+					{ "time": 1.4, "name": "la quay3" },
+					{ "time": 1.4333, "name": null },
+					{ "time": 1.4667, "name": null },
+					{ "time": 1.5333, "name": "la quay3" },
+					{ "time": 1.5667, "name": null },
+					{ "time": 1.6, "name": null },
+					{ "time": 1.6667, "name": "la quay3" },
+					{ "time": 1.7, "name": null },
+					{ "time": 1.7333, "name": null },
+					{ "time": 1.8, "name": "la quay3" },
+					{ "time": 1.8333, "name": null },
+					{ "time": 1.8667, "name": null },
+					{ "time": 1.9333, "name": "la quay3" },
+					{ "time": 1.9667, "name": null }
+				]
+			},
+			"Layer 12 copy 3": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "la quay4" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2333, "name": "la quay4" },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3667, "name": "la quay4" },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.5, "name": "la quay4" },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6333, "name": "la quay4" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 0.7667, "name": "la quay4" },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.9, "name": "la quay4" },
+					{ "time": 0.9333, "name": null },
+					{ "time": 1.0333, "name": "la quay4" },
+					{ "time": 1.0667, "name": null },
+					{ "time": 1.1667, "name": "la quay4" },
+					{ "time": 1.2, "name": null },
+					{ "time": 1.3, "name": "la quay4" },
+					{ "time": 1.3333, "name": null },
+					{ "time": 1.4333, "name": "la quay4" },
+					{ "time": 1.4667, "name": null },
+					{ "time": 1.5667, "name": "la quay4" },
+					{ "time": 1.6, "name": null },
+					{ "time": 1.7, "name": "la quay4" },
+					{ "time": 1.7333, "name": null },
+					{ "time": 1.8333, "name": "la quay4" },
+					{ "time": 1.8667, "name": null },
+					{ "time": 1.9667, "name": "la quay4" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"Layer 25 copy": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 2, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "hao quang 2" }
+				]
+			},
+			"Polygon 1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.6667, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "cricle sang 1" },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1, "name": "cricle sang 1" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.1667, "name": "cricle sang 1" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": "cricle sang 1" },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3, "name": "cricle sang 1" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.3667, "name": "cricle sang 1" },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4333, "name": "cricle sang 1" },
+					{ "time": 0.4667, "name": null },
+					{ "time": 0.5, "name": "cricle sang 1" },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.5667, "name": "cricle sang 1" },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6333, "name": "cricle sang 1" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 0.7, "name": "cricle sang 1" },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.7667, "name": "cricle sang 1" },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8333, "name": "cricle sang 1" },
+					{ "time": 0.8667, "name": null },
+					{ "time": 0.9, "name": "cricle sang 1" },
+					{ "time": 0.9333, "name": null },
+					{ "time": 0.9667, "name": "cricle sang 1" },
+					{ "time": 1, "name": null },
+					{ "time": 1.0333, "name": "cricle sang 1" },
+					{ "time": 1.0667, "name": null },
+					{ "time": 1.1, "name": "cricle sang 1" },
+					{ "time": 1.1333, "name": null },
+					{ "time": 1.1667, "name": "cricle sang 1" },
+					{ "time": 1.2, "name": null },
+					{ "time": 1.2333, "name": "cricle sang 1" },
+					{ "time": 1.2667, "name": null },
+					{ "time": 1.3, "name": "cricle sang 1" },
+					{ "time": 1.3333, "name": null },
+					{ "time": 1.3667, "name": "cricle sang 1" },
+					{ "time": 1.4, "name": null },
+					{ "time": 1.4333, "name": "cricle sang 1" },
+					{ "time": 1.4667, "name": null },
+					{ "time": 1.5, "name": "cricle sang 1" },
+					{ "time": 1.5333, "name": null },
+					{ "time": 1.5667, "name": "cricle sang 1" },
+					{ "time": 1.6, "name": null },
+					{ "time": 1.6333, "name": "cricle sang 1" },
+					{ "time": 1.6667, "name": null },
+					{ "time": 1.7, "name": "cricle sang 1" },
+					{ "time": 1.7333, "name": null },
+					{ "time": 1.7667, "name": "cricle sang 1" },
+					{ "time": 1.8, "name": null },
+					{ "time": 1.8333, "name": "cricle sang 1" },
+					{ "time": 1.8667, "name": null },
+					{ "time": 1.9, "name": "cricle sang 1" },
+					{ "time": 1.9333, "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"Polygon 1 copy": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.6667, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "cricle sang 2" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.0667, "name": "cricle sang 2" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": "cricle sang 2" },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2, "name": "cricle sang 2" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": "cricle sang 2" },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.3333, "name": "cricle sang 2" },
+					{ "time": 0.3667, "name": null },
+					{ "time": 0.4, "name": "cricle sang 2" },
+					{ "time": 0.4333, "name": null },
+					{ "time": 0.4667, "name": "cricle sang 2" },
+					{ "time": 0.5, "name": null },
+					{ "time": 0.5333, "name": "cricle sang 2" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.6, "name": "cricle sang 2" },
+					{ "time": 0.6333, "name": null },
+					{ "time": 0.6667, "name": "cricle sang 2" },
+					{ "time": 0.7, "name": null },
+					{ "time": 0.7333, "name": "cricle sang 2" },
+					{ "time": 0.7667, "name": null },
+					{ "time": 0.8, "name": "cricle sang 2" },
+					{ "time": 0.8333, "name": null },
+					{ "time": 0.8667, "name": "cricle sang 2" },
+					{ "time": 0.9, "name": null },
+					{ "time": 0.9333, "name": "cricle sang 2" },
+					{ "time": 0.9667, "name": null },
+					{ "time": 1, "name": "cricle sang 2" },
+					{ "time": 1.0333, "name": null },
+					{ "time": 1.0667, "name": "cricle sang 2" },
+					{ "time": 1.1, "name": null },
+					{ "time": 1.1333, "name": "cricle sang 2" },
+					{ "time": 1.1667, "name": null },
+					{ "time": 1.2, "name": "cricle sang 2" },
+					{ "time": 1.2333, "name": null },
+					{ "time": 1.2667, "name": "cricle sang 2" },
+					{ "time": 1.3, "name": null },
+					{ "time": 1.3333, "name": "cricle sang 2" },
+					{ "time": 1.3667, "name": null },
+					{ "time": 1.4, "name": "cricle sang 2" },
+					{ "time": 1.4333, "name": null },
+					{ "time": 1.4667, "name": "cricle sang 2" },
+					{ "time": 1.5, "name": null },
+					{ "time": 1.5333, "name": "cricle sang 2" },
+					{ "time": 1.5667, "name": null },
+					{ "time": 1.6, "name": "cricle sang 2" },
+					{ "time": 1.6333, "name": null },
+					{ "time": 1.6667, "name": "cricle sang 2" },
+					{ "time": 1.7, "name": null },
+					{ "time": 1.7333, "name": "cricle sang 2" },
+					{ "time": 1.7667, "name": null },
+					{ "time": 1.8, "name": "cricle sang 2" },
+					{ "time": 1.8333, "name": null },
+					{ "time": 1.8667, "name": "cricle sang 2" },
+					{ "time": 1.9, "name": null },
+					{ "time": 1.9333, "name": "cricle sang 2" },
+					{ "time": 1.9667, "name": null },
+					{ "time": 2, "name": "cricle sang 2" }
+				]
+			}
+		},
+		"bones": {
+			"bone10": {
+				"rotate": [
+					{ "time": 0, "angle": 21.42 },
+					{ "time": 1, "angle": -19.36 },
+					{ "time": 2, "angle": 21.42 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 5.21 },
+					{ "time": 1, "x": 0, "y": 8.93 },
+					{ "time": 2, "x": 0, "y": 5.21 }
+				]
+			},
+			"bone": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 6.95, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 6.95 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.885, "y": 1 },
+					{ "time": 1, "x": 0.753, "y": 0.943 },
+					{ "time": 2, "x": 0.885, "y": 1 }
+				]
+			},
+			"bone9": {
+				"rotate": [
+					{ "time": 0, "angle": 15.72 },
+					{ "time": 1, "angle": -7.68 },
+					{ "time": 2, "angle": 15.72 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 5.21 },
+					{ "time": 1, "x": 0, "y": 8.93 },
+					{ "time": 2, "x": 0, "y": 5.21 }
+				]
+			},
+			"bone8": {
+				"rotate": [
+					{ "time": 0, "angle": 3.64 },
+					{ "time": 1, "angle": 2.6 },
+					{ "time": 2, "angle": 3.64 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 5.21 },
+					{ "time": 1, "x": 0, "y": 8.93 },
+					{ "time": 2, "x": 0, "y": 5.21 }
+				]
+			},
+			"bone11": {
+				"rotate": [
+					{ "time": 0, "angle": 340.5 },
+					{ "time": 1, "angle": 17.88 },
+					{ "time": 2, "angle": -19.5 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 5.21 },
+					{ "time": 1, "x": 0, "y": 8.93 },
+					{ "time": 2, "x": 0, "y": 5.21 }
+				]
+			}
+		}
+	},
+	"unactive": {
+		"slots": {
+			"Layer 12": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 25": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 12 copy": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 12 copy 2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 12 copy 3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 25 copy": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Polygon 1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Polygon 1 copy": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"mu": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 33.09 },
+					{ "time": 0.5, "angle": -6.59 },
+					{ "time": 1, "angle": 33.09 },
+					{ "time": 1.5, "angle": -6.59 },
+					{ "time": 2, "angle": 33.09 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 1.64, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 1.64 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.963, "y": 1 },
+					{ "time": 0.5, "x": 0.996, "y": 1 },
+					{ "time": 1, "x": 0.963, "y": 1 },
+					{ "time": 1.5, "x": 0.996, "y": 1 },
+					{ "time": 2, "x": 0.963, "y": 1 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": -30.29 },
+					{ "time": 0.5, "angle": -0.69 },
+					{ "time": 1, "angle": -30.29 },
+					{ "time": 1.5, "angle": -0.69 },
+					{ "time": 2, "angle": -30.29 }
+				]
+			},
+			"bone4": {
+				"rotate": [
+					{ "time": 0, "angle": -6.29 },
+					{ "time": 0.6667, "angle": 1.9 },
+					{ "time": 1.3333, "angle": -12.7 },
+					{ "time": 2, "angle": -6.29 }
+				]
+			},
+			"bone7": {
+				"rotate": [
+					{ "time": 0, "angle": -3.24 },
+					{ "time": 1.3333, "angle": 9.42 },
+					{ "time": 2, "angle": -8.51 }
+				]
+			},
+			"bone6": {
+				"rotate": [
+					{ "time": 0, "angle": -23.46 },
+					{ "time": 1.3333, "angle": -6 },
+					{ "time": 2, "angle": -23.46 }
+				]
+			},
+			"bone5": {
+				"rotate": [
+					{ "time": 0, "angle": 18.64 },
+					{ "time": 0.5, "angle": 5.75 },
+					{ "time": 2, "angle": 18.64 }
+				]
+			},
+			"bone8": {
+				"rotate": [
+					{ "time": 0, "angle": -13.13 },
+					{ "time": 1, "angle": 2.81 },
+					{ "time": 2, "angle": -13.13 }
+				]
+			},
+			"bone11": {
+				"rotate": [
+					{ "time": 0, "angle": 344.76 },
+					{ "time": 0.6667, "angle": 1.3 },
+					{ "time": 2, "angle": -15.24 }
+				]
+			},
+			"bone9": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1, "angle": 10.45 },
+					{ "time": 2, "angle": 0 }
+				]
+			},
+			"bone10": {
+				"rotate": [
+					{ "time": 0, "angle": -3.25 },
+					{ "time": 1.2333, "angle": -10.47 },
+					{ "time": 2, "angle": -3.25 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,47 @@
+﻿Luật Poker VIPGAME
+
+I. BỘ BÀI.
+• Poker sử dụng bộ bài tây 52 lá bài.
+• Mỗi người chơi ban đầu sẽ được chia 2 lá bài, sau đó 5 lá bài chung được chia, người chơi sẽ kết hợp 2 lá bài ban đầu của mình với 5 lá bài chung để chọn ra bộ 5 lá bài có liên kết cao nhất. Người chơi nào có bộ 5 lá bài có liên kết cao nhất sẽ thắng cuộc.
+
+II. LÁ BÀI.
+• Mỗi lá bài tây gồm hai phần, phần số và phần chất, tuy nhiên trong Poker chúng ta chỉ quan tâm đến phần số mà không cần quan tâm đến phần chất.
+• Xếp hạng độ mạnh của các lá bài như sau:
+A (Xì) > K (Già) > Q (Đầm) > J (Bồi) > 10 > 9 > 8 > 7 > 6 > 5 > 4 > 3 >2.
+
+III. LIÊN KẾT.
+Dưới đây là liên kết giữa các lá bài, xếp theo độ mạnh tăng dần:
+• Mậu thầu: các lá bài không có liên kết gì với nhau.
+VD: 10♥  7♦  9♣  J♠  K♠    
+• Đôi: có đúng 2 lá bài giống nhau về phần số.
+VD: 8♥  8♦  J♣   K♠  A♥ 
+• Thú: có đúng 2 đôi.
+VD:8♥  8♦  J♣   J♠  A♥ 
+• Sám: có đúng 3 lá giống nhau về phần số.
+VD: 8♥  8♦  8♣   J♠  A♥ 
+• Sảnh: 5 lá bài có số liên tiếp.
+VD: 8♥  9♦  10♣   J♠  Q♥ 
+• Thùng: 5 lá đồng chất.
+VD: 8♥  9♥  J♥  K♥  A♥ 
+• Cù lũ: 1 đôi và 1 sám.
+VD: 8♥  8♦  8♣  9♠   9♥  
+• Tứ quý: có đúng 4 lá bài giống nhau về phần số.
+VD: 8♥  8♦  8♣  8♠   J♥  
+• Thùng phá sảnh: 5 lá bài đồng chất có số liên tiếp.
+VD: 8♥  9♥  10♥  J♥  Q♥ 
+
+IV.CÁCH CHƠI VÀ TÍNH TIỀN.
+1. Bắt đầu: một người chơi ngẫu nhiên sẽ được chọn làm Dealer ( kí hiệu “D” ), người bên phải D là Small Blind ( kí hiệu “SB” ) sẽ tự động bỏ ra một số tiền cược bằng mức cược của bàn chơi, tiếp đến người bên phải SB là Big Blind ( kí hiệu “BB” ) sẽ tự động bỏ ra một số tiền cược gấp đôi mức cược của bàn chơi.
+2. Chia bài: mỗi người chơi ban đầu sẽ được chia 2 lá bài, đây là những lá bài riêng và không người chơi nào được nhìn thấy bài của nhau. Sau đó 5 lá bài chung được chia làm 3 đợt, đợt đầu 3 lá bài, mỗi đợt sau 1 lá bài. Ở mỗi đợt chia bài này, người chơi có quyền đặt cược nên được gọi là một vòng tố. Như vậy tính cả vòng đầu tiên, khi chỉ mới chia 2 lá bài cho từng người chơi, tổng cộng sẽ có 4 vòng tố.
+3. Vòng tố: 
+• Các thao tác trong một vòng tố: 
++ Tố: người chơi đặt cược số tiền lớn hơn 1 cược và nhỏ hơn giới hạn tố tùy chủ phòng quy định.
++ Theo: người chơi chấp nhận đặt cược số tiền bằng với người tố.
++ Xem: khi trước đó chưa có ai tố, người chơi được phép xem bài để không phải bỏ thêm tiền cược mà vẫn có thể tiếp tục ván chơi.
++ Úp bỏ: người chơi úp bài, không chấp nhận mức cược của người tố, dừng tham gia ván chơi.
+• Mỗi vòng tố sẽ kết thúc khi số tiền cược đã bỏ ra của tất cả người chơi còn lại ( chưa úp bỏ ) bằng nhau hoặc là người đó đã bỏ ra hết số tiền mà mình có.
+• Vòng tố thứ nhất bắt đầu ngay sau khi mỗi người chơi được chia 2 lá bài.
+• Vòng tố thứ hai bắt đầu sau khi 3 lá bài chung được chia.
+• Vòng tố thứ ba bắt đầu sau khi lá bài chung thứ 4 được chia.
+• Vòng tố cuối cùng, bắt đầu sau khi bài chung đã được chia đủ 5 lá bài.
+• Ván đấu kết thúc tại vòng tố cuối cùng khi tất cả người chơi đã theo hoặc úp. Lúc này những người chơi chưa úp bỏ sẽ so bài với nhau. Người chơi nào có liên kết 5 lá bài lớn nhất sẽ thắng và được số tiền gà. 

@@ -1,0 +1,40 @@
+﻿Luật Xì Dách VIPGAME
+
+I. BỘ BÀI.
+• Xì Dách sử dụng bộ bài tây 52 lá. Khi chơi Xì Dách, chúng ta chỉ quan tâm tới phần số của lá bài và bỏ qua phần chất.
+
+II.NGƯỜI CHƠI.
+• Xì Dách được chơi từ 2 người trở lên.
+• Nhà cái: là người chủ bàn, đứng ra nhận và trả tiền cược cho những người chơi khác.
+• Nhà con: là những người chơi không phải nhà cái, tham gia đặt cược với nhà cái.
+• Tất cả các nhà con đều đối kháng với nhà cái, giữa các nhà con không có sự đối kháng với nhau.
+
+III. TÍNH ĐIỂM.
+• Đối với các lá bài: 2, 3, 4, 5, 6, 7, 8, 9, 10 thì số điểm tương ứng với con số.
+• Đối với các lá bài : J, Q, K thì mỗi lá bài được tính 10 điểm.
+• Đối với lá bài: A thì tùy trường hợp có thể tính linh hoạt là 1 điểm, 10 điểm hay 11 điểm.
+• Tổng điểm: Tổng điểm của tất cả các lá bài của người chơi cộng lại.
+• Non: bài có tổng điểm dưới 16 điểm.
+• Đủ: bài có tổng điểm từ 16 đến 21 điểm.
+• Quắc: bài có tổng điểm lớn hơn 21 điểm.
+
+IV.CÁCH CHƠI VÀ TÍNH TIỀN.
+Mục tiêu của trò chơi là người chơi có tổng điểm các lá bài của mình càng gần hoặc bằng 21 điểm thì càng tốt.
+1. Bắt đầu: Mỗi người chơi sẽ được chia 2 lá bài, các lá bài còn dư sẽ để làm nọc.
+2. Giai đoạn 1: 
+• Với 2 lá bài đầu tiền, nếu người chơi có bài rơi vào các trường hợp dưới đây sẽ dừng luôn và hưởng lợi:
++ Xì Bàng: có 2 lá A.
++ Xì Dách: có 1 lá A và một trong các lá 10, J, Q, K.
+• Nếu nhà cái đạt được Xì Bàng hoặc Xì Dách thì sẽ thắng hết nhà con, trừ trường hợp nhà con nào có bài bằng hoặc cao hơn nhà cái.
+3. Giai đoạn 2: Bốc thêm bài.
+• Ngoài 2 lá được chia ban đầu, mỗi nhà được bốc thêm tối đa 3 lá.
+• Bắt đầu từ bên phải của nhà cái theo ngược chiều kim đồng hồ, từng nhà con sẽ bốc bài cho đến khi dừng, khi tất cả các nhà con dừng nhà cái mới được quyền bốc.
+• Người chơi có quyền bốc thêm bài sao cho đạt trạng thái “Đủ” ( tổng điểm nằm trong khoảng từ 16 đến 21). Nếu quá 21 điểm người chơi không có quyền bốc bài nữa.
+4. Tính điểm và so bài
+• Trường hợp nhà con và nhà cái bằng điểm: 2 nhà hòa nhau.
+• Trường hợp nhà con và nhà cái đều có bài đạt trạng thái Đủ: nhà nào bài có tổng điểm lớn hơn nhà đó thắng.
+• Trường hợp nhà con và nhà cái đều có bài đạt trạng thái Quá: nhà nào bài có tổng điểm nhỏ hơn nhà đó thắng.
+• Trường hợp nhà con và nhà cái đều có bài đạt trạng thái Non: nhà nào bài có tổng điểm lớn hơn nhà đó thắng.
+• Trường hợp một nhà có bài đạt trạng thái Đủ, một nhà có bài đạt trạng thái Non hoặc Quắc: nhà có bài đạt trạng thái Đủ thắng.
+• Trường hợp một nhà có bài đạt trạng thái Non, một nhà có bài đạt trạng thái Quắc: nhà có bài đạt trạng thái Quắc thắng.
+• Ngũ Linh: nhà nào có bài với tổng điểm 5 lá nhỏ hơn 21 điểm nhà đó thắng tuyệt đối. Nếu nhà cái và nhà con cùng đạt Ngũ Linh thì nhà nào có tổng điểm nhỏ hơn nhà đó thắng.

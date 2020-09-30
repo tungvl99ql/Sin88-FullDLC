@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2415ac8ef28efa94d88cf6a92f9b7675
+timeCreated: 1530668985
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: UTM Cafeta
+  fontNames:
+  - UTM Cafeta
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

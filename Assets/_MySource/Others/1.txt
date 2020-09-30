@@ -1,0 +1,64 @@
+﻿Luật Tiến Lên Miền Nam trên VIPGAME
+
+I. BỘ BÀI.
+• Luật chơi Tiến lên miền nam sử dụng bộ bài chuẩn 52 lá. Mỗi người chơi được chia 13 lá bài. Bàn chơi được có thể có từ 2 đến 4 người chơi.
+
+II. CÁC LÁ BÀI.
+• Bộ 52 lá bài, mỗi quân bài gồm 2 phần số và chất.Vd: 6♣ có số 6 và chất ♣ (tép).
+• Giá trị quân bài phụ thuộc trước tiên vào số, nếu hai quân bài cùng số thì sẽ so sánh theo chất. Xếp hạng độ mạnh theo số và chất như sau:
+2 (heo) > A (xì) > K (già) > Q (đầm) > J (bồi) > 10 > 9 > ... > 3.
+♥ > ♦ > ♣ > ♠
+• Xếp bài:
++ Lá bài rác: 9 ♠
++ Bộ đôi: J ♥ J ♣
++ Bộ ba: 7♥ 7♦ 7♣
++ Sảnh: 3♥ 4♠ 5♥ 6♠ 7♥ 8♦...
++ 3 đôi thông: 4♦ 4♥ 5♦ 5♥ 6♠ 6♥
++ Tứ quý: 6♥ 6 ♦ 6 ♣ 6 ♠
++ 4 đôi thông: 4♦ 4♥ 5♦ 5♥ 6♠ 6♣ 7♠ 7♥
+
+III. CÁCH CHƠI VÀ TÍNH TIỀN.
+1. Đánh bài:
+• Quyền đánh trước: Ván đầu tiên, quyền đánh trước là ngẫu nhiên. Từ ván sau trở đi người nhất ở ván kết trước sẽ được quyền đánh trước ván tiếp theo.
+• Vòng đánh: Theo ngược chiều kim đồng hồ, mỗi người được ra một lá hoặc một bộ nhiều lá. Người ra sau phải đánh bài có cùng loại và cao hơn người đánh trước, trừ trường hợp chặt. Loại là cùng lá bài rác, đôi, bộ ba, sảnh.
+• Hết vòng đánh: Trong vòng đánh nếu một người bỏ lượt thì coi như bỏ cả vòng. Nếu không còn ai chặn được tiếp thì người đánh cuồi cùng được ra bài bắt đầu vòng mới.
+2. Kết thúc
+Khi người đầu tiên đánh hết bài. Những người còn lại coi như thua cuộc.
+3. Tới trắng
+Thắng luôn sau khi chia bài, người thắng cuộc nhận được từ mỗi nhà 26 cược, không tính thối 2, 3 đôi thông, 4 đôi thông.
++ 6 đôi: 4♦ 4♥ 5♦ 5♥ 6♠ 6♥ 7♣ 7♥ J♠ J♦ K♠ K♣
++ Tứ quý 2: 2♠ 2♣ 2♦ 2♥
++ 5 đôi thông: 4♦ 4♥ 5♦ 5♥ 6♣ 6♥ 7♣ 7♥ 8♣ 8♦
++ 12 lá đồng chất: 2♠ 4♠ 5♠ 6♠ 7♠ 8♠ 9♠ 10♠ J♠ Q♠ K♠ A♠ A♣
++ 2 tứ quý: 3♠ 3♣ 3♦ 3♥	5♠ 5♣ 5♦ 5♥
++ 4 bộ ba: 2♠ 2♣ 2♦ 4♠ 4♣ 4♦ 5♠ 5♣ 5♦ 10♠ 10♣ 10♦ A♥
++ Sảnh rồng: 3♠ 4♦ 5♥ 6♣ 7♥ 8♦ 9♦ 10♠ J♥ Q♠ K♣ A♣
+Độ mạnh của bài tới trắng giảm dần như sau: Sảnh rồng > 6 đôi thông > 4 bộ ba > 2 tứ quý > 12 lá đồng chất > 5 đôi thông > Tứ quý 2 > 6 đôi.
+Với các bộ bài tới trắng cùng loại thì xét lá cao nhất của bộ. Độ ưu tiên về số trước rồi đến chất. Ví dụ: có 2 bộ bài có 5 đôi thông, thì xét 2 đôi cao nhất của 2 bộ bài. Đôi nào giá trị cao hơn sẽ thắng. Nếu 2 đôi cao nhất cùng giá trị sẽ xét về chất của lá cao nhất trong đôi đó. Chất cao hơn sẽ thắng.
+4. Chặt: theo quy luật sau:
++ 3 đôi thông chặt được heo và 3 đôi thông nhỏ nhỏ hơn.
++ Tứ quý chặt được heo, 3 đôi thông và tứ quý nhỏ hơn.
++ 4 đôi thông chặt được heo, 3 đôi thông, tứ quý và 4 đôi thông nhỏ hơn.
+5. Kết 3 bích:
++ Kết 3 bích: Người đánh được 3♠ cuối cùng và thắng ván chơi. Mỗi người thua trong bàn phải mất 26 cược với người kết 3 bích.
++ Chặn kết 3 bích: Người chặn được người khác kết 3 bích. Người bị chặn kết 3 bích phải đền 26 cược cho mỗi người trong bàn tham gia vòng đánh cuối. Người không tham gia vòng cuối thì không mất và cũng không được cược nào.
+6. Phạt Thối & chặt:
+• 1 lá bài rác bị thối: 1 cược
+• 2 đen: 3 cược
+• 2 đỏ: 6 cược
+• Đôi 2 đen: 6 cược
+• Đôi 2 đen & đỏ: 9 cược
+• Đôi 2 đỏ: 12 cược
+• 3 đôi thông: 6 cược
+• Tứ Quý: 8 cược
+• 4 đôi thông: 12 cược
+Người có bài tới trắng sẽ được số cược của mỗi người thua trắng trong bàn lần lượt:
++ Sảnh rồng: 9 cược
++ 6 đôi thông: 8 cược
++ 4 bộ ba: 7 cược
++ 2 tứ quý: 6 cược
++ 12 lá đồng chất: 5 cược
++ 5 đôi thông: 4 cược
++ Tứ quý 2: 3 cược
++ 6 đôi: 2 cược.
+Chúc các bạn chơi game vui vẻ!

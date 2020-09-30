@@ -1,0 +1,28 @@
+﻿Luật Cờ Úp trên VIPGAME
+
+I. TÓM TẮT CHUNG.
+• Cờ úp là một trò chơi biến thể của cờ Tướng. Các quân cờ ban đầu bị úp chỉ trừ quân Tướng và xáo trộn ngẫu nhiên sau đó sắp theo thế trận cờ Tướng thông thường. Nước đi đầu tiên của cờ úp phải tuân theo luật đi của cờ Tướng tại vị trí mà nó đang chiếm giữ. Sau nước đi đầu tiên, các quân cờ được lật ra và từ nước thứ hai trở đi quân cờ sẽ đi theo luật của cờ ngửa. 
+
+II. LUẬT CHƠI.
+• Tướng: Mỗi nước đi một ô, đi ngang hoặc dọc. Tướng luôn ở trong phạm vi cung."Cung" gồm 4 hình vuông nhỏ được gạch đường chéo.
+• Sĩ: Đi chéo, mỗi nước một ô. Sĩ luôn ở trong "Cung" giống như Tướng.
+• Tượng: Đi chéo 2 ô mỗi nước, đi ngang hoặc dọc. Tượng không được phép qua sông sang bàn cờ của đối phương.Nước đi của Tượng không hợp lệ khi có quân cờ chặn giữa đường.
+• Xe: Đi ngang hoặc dọc khắp bàn cờ miễn không có quân khác cản trên đường đi.
+• Mã: Đi ngang 2 ô và đi dọc 1 ô ( hoặc đi dọc 2 ô và đi ngang 1 ô) cho mỗi nước đi.Nếu có quân khác nằm cạnh mã và cản đường ngang 2 hoặc cản đường dọc 2, thì mã không được đi đường đó
+• Pháo: Đi ngang hoặc dọc giống như Xe. Điểm khác là khi Pháo muốn ăn quân của đối phương thì giữa Pháo và quân muốn ăn phải có quân cản ở giữa.
+• Tốt: Đi mỗi nước một ô. Nếu Tốt chưa qua sông thì chỉ được đi thẳng tiến. Khi đã vượt qua sông có thể đi ngang hoặc đi thẳng tiến, mỗi nước một ô.
+
+III. THUẬT NGỮ.
+• Ăn quân: Khi quân di chuyển đến một vị trí đang đứng của quân đối phương, quân đối phương bị ăn và bị lấy ra khỏi bàn cờ.
+• Chống tướng: 2 tướng trên bàn không được nằm trên cùng một cột dọc mà không có quân cản ở giữa.Nước đi để 2 quân tướng ở vị trí chống tướng là không hợp lệ.
+• Chiếu tướng: Bất kỳ nước đi nào làm cho Tướng của đối phương bị ăn ở nước tiếp theo.
+• Đuổi quân: Một quân di chuyển đến vị trí mà nó có thể bắt quân nào đó của đối phương(trừ Tướng) trong nước tiếp. Hoặc một nước đi làm cho Pháo chiếu quân đối phương.Loại trừ các ngoại lệ sau:
+• Khi nước đi của Tướng hoặc Tốt chiếu quân đối phương. Nước đi này không gọi là nước đuổi quân.
+• Nước đi hăm dọa Tốt chưa sang sông không được cho là nước đuổi quân.
+• Nước thí quân không được gọi là nước đuổi quân.
+
+IV. MỘT SỐ NGOẠI LỆ TRONG NƯỚC ĐI.
+So với cờ tướng, cờ úp có một số ngoại lệ sau
+• Sĩ: không bị giới hạn trong cấm cung mà có thể đi khắp bàn cờ theo luật đi chéo của nó.
+• Tượng: không bị giới hạn bên phần "sân nhà" mà có thể đi sang lãnh thổ đối phương.
+• Tốt: có thể xuất phát từ dưới đường biên ngang bên phần sân nhà và đi thẳng lên, đến khi qua sông thì được đi ngang.

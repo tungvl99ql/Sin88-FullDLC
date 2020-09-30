@@ -1,0 +1,533 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1148962302407636
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4017741351208012}
+  - component: {fileID: 82667390450176918}
+  m_Layer: 0
+  m_Name: BackgroundSourceSound
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4017741351208012
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1148962302407636}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4742528334021102}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &82667390450176918
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1148962302407636}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 0.75
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!1 &1183343879389500
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4428196774603774}
+  - component: {fileID: 82333251152061614}
+  m_Layer: 0
+  m_Name: GameplaySourceSound
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4428196774603774
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1183343879389500}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4742528334021102}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &82333251152061614
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1183343879389500}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 0.75
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!1 &1230077866191588
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4187178410274092}
+  - component: {fileID: 82693108876642968}
+  m_Layer: 0
+  m_Name: UISourceSound
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4187178410274092
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1230077866191588}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4742528334021102}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &82693108876642968
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1230077866191588}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!1 &1702461105761400
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4742528334021102}
+  - component: {fileID: 114765393217552648}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4742528334021102
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1702461105761400}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4187178410274092}
+  - {fileID: 4017741351208012}
+  - {fileID: 4428196774603774}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114765393217552648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1702461105761400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 075c4b57454aa8d42a139a72fd743312, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UISoundSource: {fileID: 82693108876642968}
+  BackgroundSoundSource: {fileID: 82667390450176918}
+  EffectSoundSource: {fileID: 82333251152061614}
+  GameplaySoundSource: {fileID: 0}
+  ParralaxEffect: {fileID: 0}
+  listUISnd:
+  - assetGuid: 5e155a3959916fb43b368cea02719427
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/congratulations.mp3
+  - assetGuid: 6396b9cda3c6f324d9c60aa6cb61f010
+    assetPath: Assets/_MySource/Resources/_Sound/Card/ready.ogg
+  - assetGuid: 2e4d5886b109b5e4cba0814f95f05e71
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/spin.mp3
+  - assetGuid: 9606421e1ed7a6142b714641a2a6fde0
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/big_win_1.mp3
+  - assetGuid: 886947b41706c3345873dfc1caee48a1
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/big_win_2.mp3
+  - assetGuid: 74525cce3d7aeef4ba045bae826c8fa8
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/big_win_3.mp3
+  - assetGuid: 01dd8fa4ece1e0142af56928287345d5
+    assetPath: Assets/_MySource/Resources/_Sound/Card/bet.ogg
+  - assetGuid: 15474db94d53a0e4fb3062d057e21515
+    assetPath: Assets/_MySource/Resources/_Sound/Card/card_drop.ogg
+  - assetGuid: 68def2f15de1b7446896d33ff45080db
+    assetPath: Assets/_MySource/Resources/_Sound/Card/card_start.ogg
+  - assetGuid: 81ce67064977ef642a92567cfba28913
+    assetPath: Assets/_MySource/Resources/_Sound/Card/completed.ogg
+  - assetGuid: 7293d15c28717fa409f9f35666fdfb7d
+    assetPath: Assets/_MySource/Resources/_Sound/Card/door_close.ogg
+  - assetGuid: d4ae441c13e1e744eac76376cd86cb4b
+    assetPath: Assets/_MySource/Resources/_Sound/Card/join_table.ogg
+  - assetGuid: 8d56b39de5879f349b7236a2e54cfddb
+    assetPath: Assets/_MySource/Resources/_Sound/Card/lost.ogg
+  - assetGuid: ff7b793b2ed741b4883b93957f55a856
+    assetPath: Assets/_MySource/Resources/_Sound/Card/open_bowl.ogg
+  - assetGuid: 3664c56cbc788e943a500f16e4c164c0
+    assetPath: Assets/_MySource/Resources/_Sound/Card/phom_win.ogg
+  - assetGuid: dea78062554ec6443a224a3ad98ed693
+    assetPath: Assets/_MySource/Resources/_Sound/Card/raise.ogg
+  - assetGuid: 6396b9cda3c6f324d9c60aa6cb61f010
+    assetPath: Assets/_MySource/Resources/_Sound/Card/ready.ogg
+  - assetGuid: 6e823bfd5112dbc47a2f3466f02424f9
+    assetPath: Assets/_MySource/Resources/_Sound/Card/set_turn.ogg
+  - assetGuid: b10b06e8c15ffcd40acb866677f05ac2
+    assetPath: Assets/_MySource/Resources/_Sound/Card/slot_big_win.ogg
+  - assetGuid: e969d433f143bb44b9dec07eadc27742
+    assetPath: Assets/_MySource/Resources/_Sound/Card/slot_explore.ogg
+  - assetGuid: aaa2f72ac60fd804481ffd81c1983418
+    assetPath: Assets/_MySource/Resources/_Sound/Card/slot_stop_a_row.ogg
+  - assetGuid: 381231bf1f5fa2341a4cbcfd19c0d665
+    assetPath: Assets/_MySource/Resources/_Sound/Card/slot_turn.ogg
+  - assetGuid: 6fd2204f43c1bed4e8c64c56221a337b
+    assetPath: Assets/_MySource/Resources/_Sound/Card/slot_win.ogg
+  - assetGuid: a432fbb4028c654419d866cab8eafcbc
+    assetPath: Assets/_MySource/Resources/_Sound/Card/start_match.ogg
+  - assetGuid: d97c086df2e32944583ef1b7bad68ad9
+    assetPath: Assets/_MySource/Resources/_Sound/Card/taxiu_shake.wav
+  - assetGuid: 8d16324a6bf9f7f4bb4a5b39396b3053
+    assetPath: Assets/_MySource/Resources/_Sound/Card/win.ogg
+  - assetGuid: f1df7553e8b345f4da1f0c61c5a3281a
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/sl7_click.mp3
+  - assetGuid: 5cf119c4a4026494799919101409083c
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/mnp_spin_auto.mp3
+  - assetGuid: 6396b9cda3c6f324d9c60aa6cb61f010
+    assetPath: Assets/_MySource/Resources/_Sound/Card/ready.ogg
+  - assetGuid: fcbce42d987ccb74aa70383e8614eb47
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/sl7_miss.mp3
+  listBackgroundSnd:
+  - assetGuid: 976ac61d5a22d264aac06cda85ef91ff
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/background.mp3
+  - assetGuid: bcf6de30ab34eeb49a2522b5be76e19b
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/background_1.ogg
+  - assetGuid: 86052a22afb663d4190747aa56ad7603
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/background_3.ogg
+  - assetGuid: 5390a638d0547c0438df4f639f9e81b3
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/background_2.ogg
+  listEffectSnd:
+  - assetGuid: 0821265a5904ea04eb9d79132bedcd10
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/win_1.mp3
+  - assetGuid: e7b9c6853dda8f34c823339be5dbe61b
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/win_2.mp3
+  - assetGuid: f064d493fdbf2284f9230692e67f74eb
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/win_3.mp3
+  - assetGuid: a915dbe75e364884ca3e8e7c0f092aee
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/win_line_1.mp3
+  - assetGuid: 1045104a284943649a50386a6f421e1d
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/win_line_2.mp3
+  - assetGuid: ff1d26d3e7ca8b243be233c23d4350de
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/win_line_3.mp3
+  - assetGuid: 9900939cd35873241a2654863473e772
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/win_line_4.mp3
+  - assetGuid: 4dc70add12f20dd45bb8662837076d94
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/win_line_5.mp3
+  - assetGuid: 65f7cd53d31ba85429ff5f43151fc48b
+    assetPath: Assets/_MySource/Resources/_Sound/NewAudioClips/missed.mp3
+  - assetGuid: 244d415b138c5d74db1569f7b0747570
+    assetPath: Assets/_MySource/Resources/_Sound/TaiXiu/CountDown.mp3
+  - assetGuid: 3664c56cbc788e943a500f16e4c164c0
+    assetPath: Assets/_MySource/Resources/_Sound/Card/phom_win.ogg
+  - assetGuid: 8d56b39de5879f349b7236a2e54cfddb
+    assetPath: Assets/_MySource/Resources/_Sound/Card/lost.ogg
+  - assetGuid: 8d16324a6bf9f7f4bb4a5b39396b3053
+    assetPath: Assets/_MySource/Resources/_Sound/Card/win.ogg
+  listSuggestionSnd: []
+  listParralaxEffect: []

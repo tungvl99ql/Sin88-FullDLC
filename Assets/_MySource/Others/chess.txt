@@ -1,0 +1,24 @@
+﻿Luật Cờ Vua trên VIPGAME
+
+I. GIỚI THIỆU CHUNG.
+• Ván cờ được bắt đầu giữa hai đấu thủ bằng cách luân phiên nhau di chuyển các quân cờ trên một bàn hình vuông có kích thước 8x8 ô gọi là bàn cờ. Tại GameVH.net, người được chọn đánh đầu tiên là ngẫu nhiên. Mỗi khi một đấu thủ thực hiện lượt đi xong thì đấu thủ còn lại mới được thực hiện lượt đi của mình.
+Mục tiêu của mỗi đấu thủ là tấn công vua của đối phương sao cho vua của đối phương không thể di chuyển đúng luật bước nào để thoát khỏi thế chiếu gọi là "chiếu bí". Người chơi "chiếu bí" được đối phương là người chơi chiến thắng.
+• Nếu xuất hiện thế cờ mà không đấu thủ nào có thể thực hiện được chiếu bí thì ván cờ hòa.
+• Không được di chuyển một quân cờ tới ô có quân cùng màu đang đứng. Nếu quân cờ đi tới một ô đang có quân khác màu đứng thì sẽ bắt được quân đó của đối phương (không áp dụng với quân tốt do tốt đi thẳng, ăn chéo.
+
+II. LUẬT DI CHUYỂN CỜ.
+• Vua: được di chuyển theo đường chéo, hàng ngang hoặc cột dọc nhưng mỗi lượt đi chỉ đi được 1 ô.
+• Hậu: được di chuyển nhiều ô trên bàn cờ theo đường chéo hàng ngang hoặc cột dọc.
+• Xe: có thể di chuyển nhiều ô trên bàn cờ chỉ cần cùng cột dọc hoặc hàng ngang.
+• Tượng: có thể di chuyển nhiều ô trên cùng đường chéo mà nó đứng.
+• Mã: từ vị trí hiện tại, mã có thể đi đến 1 trong những ô gần nhất nhưng không nằm trên cùng hàng ngang cột dọc, hay đường chéo với ô nó đang đứng.
+• Tốt: mỗi bên có 8 quân tốt. Ở nước đi đầu tiên tốt có thể tiến 1 hoặc 2 nước trên cùng cột dọc. Từ lần di chuyển thứ 2, con tốt đó chỉ thể tiến 1 ô. Tốt ăn theo đường chéo trong phạm vi 1 ô hướng về phía trước. Sức mạnh của quân tốt được phát huy cao nhất khi tốt được phong cấp thành 1 trong các quân hậu, xe, tượng, mã. Trong cờ vua, trước khi phong cấp, tốt không thể lùi.
+Lưu ý: các quân cờ phải được di chuyển theo quy luật trên và không được di chuyển bằng cách nhảy qua các quân cờ khác trừ quân mã.
+
+III. LUẬT CHƠI NÂNG CAO.
+• Phong cấp cho tốt: Khi tốt tiến tới hàng ngang cuối cùng của đối phương có thể được phong cấp thành hậu, xe, tượng, mã ngay trong nước cờ này. Đồng thời không có giới hạn về số lượng quân tốt được phong cấp. 
+• Nhập thành: trong trường hợp xe và vua chưa di chuyển lần nào, khoảng cách giữa 2 quân cờ không có quân cờ khác thì vua và xe có thể đổi vị trí cho nhau một lần. Vua có thể di chuyển sang bên trái hoặc phải 2 ô, sau đó xe di chuyển nhảy qua vua tới ngay cạnh ô cờ của quân vua. Trong mỗi ván cờ mỗi người chỉ có cơ hội nhập thành một lần duy nhất. 
+Lưu ý:
++ Đang bị chiếu thì không được nhập thành.
++ Bạn không được nhập thành nếu Vua đi qua ô bị đối phương khống chế.
+• Bắt tốt qua đường: khi tốt đối phương từ vị trí ban đầu tiến hai ô vượt qua ô cờ đang bị tốt bên có lượt đi kiểm soát, thì tốt bên có lượt đi có thể bắt tốt đối phương vừa đi hai ô như khi tốt đó thực hiện nước đi một ô. Nước bắt này chỉ có thể thực hiện ngay sau nước tiến tốt hai ô và được gọi là "bắt tốt qua đường".

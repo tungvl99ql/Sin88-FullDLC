@@ -1,0 +1,187 @@
+WARN_USERNAME_BLANK::Tên tài khoản không được để trống
+WARN_USERNAME_MIN_LENGTH::Tên tài khoản phải dài tối thiểu 6 ký tự
+WARN_PASSWORD_BLANK::Mật khẩu không được để trống
+WARN_PASSWORD_MIN_LENGTH::Mật khẩu phải dài tối thiểu 6 ký tự
+WARN_CARD_SERIAL_LENGTH::Seri có độ dài trong khoảng #1 - #2
+WARN_CARD_PIN_LENGTH::Mã thẻ có độ dài trong khoảng #1 - #2
+WARN_GIFTCODE_BLANK::Vui lòng nhập giftcode
+WARN_FEEDBACK_BLANK::Vui lòng nhập góp ý của bạn.
+WARN_PM_BLANK::Vui lòng nhập tin nhắn
+WARN_CONTENT_BLANK::Vui lòng nhập lý do
+WARN_NOT_ENOUGH_GOLD::Không đủ tiền cược.
+WARN_NOT_ENOUGH_GOLD_PLAYING::Bạn không đủ #1 để chơi . Vui lòng nạp thêm để chơi tiếp
+WARN_INVITE_SPAM::Bạn phải chờ #1 giây nữa mới có thể tiếp tục mời người chơi khác.
+WARN_SERVER_ERROR::Đã xảy ra lỗi từ máy chủ.
+WARN_SERVER_CONNECTION::Mất kết nối. Vui lòng thử lại.
+WARN_FORMAT_INVALID::Sai định dạng.
+WARN_OLD_PWD_BLANK::Mật khẩu cũ không được để trống
+WARN_NEW_PWD_BLANK::Mật khẩu mới không được để trống
+WARN_PASSWORD_NOT_MATCH::Hai mật khẩu không khớp!
+CARD_NOT_SELECTED::Bạn chưa chọn bài
+CARD_SELECTED_TOO_MANY::Bạn không được chọn quá #1 quân bài
+WARN_MAUBINH_BAILUNG::Bài lủng. Vui lòng xếp lại bài.
+
+INFO_PASSWORD_CHANGED_SUCCESS::Đổi mật khẩu thành công.
+INFO_CARD_RECHARGED::#1 #2 đã được nạp vào tài khoản của bạn
+INFO_GIFTCODE_SUCCESS::Mã quà tặng #1 đã nạp thành công. Tài khoản của bạn được tặng #2
+INFO_FEEDBACK_SUCCESS::Góp ý của bạn đã được gửi đến BQT. Cảm ơn bạn rất nhiều. chúc bạn có những phút giây vui vẻ!
+PLAY_INVITATION::Bạn nhận được một lời mời chơi với mức cược #1 #2. Bạn có muốn tham gia không?
+INFO_INVITE_SUCCESS::Gửi lời mời thành công.
+TRANSACTION_SUCCESS::Giao dịch thành công. Tài khoản của bạn được cộng #1 #2. Mã giao dịch #3
+TRANSACTION_FAILED::Giao dịch không thành công.
+INFO_UPCOMING::Sắp ra mắt.
+IN_DEVELOPING::Tính năng đang phát triển.
+FACEBOOK_LOGIN_ERROR::Có lỗi khi đăng nhập Facebook.
+FACEBOOK_LOGIN_NOT_YET::Bạn chưa đăng nhập Facebook.
+TRANSFER_SUCCESS::Bạn đã chuyển thành công #1 #2 cho tài khoản #3
+SHARE_NOT_SUCCESS::Share không thành công!
+IN_PROCESSING::Hệ thống đang xử lý. Thông tin sẽ được gửi vào hòm thư của bạn.
+INFO_CLOSED_OWNER::Bàn chơi đã bị đóng bởi chủ bàn
+
+DEFAULT_STATUS::Nó đang đến, cái lạnh của mùa đông... < Vừa đổi thưởng 50k rồi ae... < Cao thủ Mậu Binh đây, solo đê < Solo TLMN 10K pm nhé < Đang rảnh quẩy Xóc đĩa đi ae ơi < Mình là girl, nhường mình Phỏm nha :v < Vừa chơi được iQuay được 50k nè. Ahhii < Đập trúng cái hũ 20k. Hên v~ lúa < Thắng lớn slot rồi ae ơi =)) < Kết bạn với mình nha!!!
+
+BOTCHAT_COMMON::Xin chào < Đánh nhanh đê < Cứ từ từ < Vãi xoài < Có hàng nè < Tha cho em < Chạy đâu < Tưởng thế nào
+BOTCHAT_XOCDIA::Chẵn nè! < Xin lỗi đời quá đen < Mua nhanh nào < Hông nay hên quá < Lẻ lẻ lẻ < Đỏ quá đi ::v < Yếu đừng ra gió < Chia buồn với các chú
+BOTCHAT_MAUBINH::Vãi xòa < cứ từ từ < Ôi thôi chết rồi < Mậu binh rồi < Nhanh còn đọ bài < Sập 3 chi < Xin chào < Đen đừng hỏi
+BOTCHAT_PHOM::Ù này < Xin cây chốt < Ăn đê... < Cứ từ từ < Mình xin < Cho thì ăn < Xin chào < Đánh nhanh đê
+BOTCHAT_XITO::Úp nhanh còn kịp < Tất tay đê < Tố to vào < Sợ rồi à < Mình xin < Ngon thì zô < Xin chào < Đen đừng hỏi
+BOTCHAT_XIJACH::Còn non lắm < Lại có tiền < Vãi xoài < Quắc mất rồi <  Bốc nhanh đê < Đời quá đen < Xin chào < Đủ 21! hốt tiền rồi
+BOTCHAT_CHAN::Bình tĩnh < Ôi thôi chết rồi < Chờ ù . hehe < Ăn đê < Xin chào < Nhât đi thì ù < Mình xin < Đánh nhanh đê
+BOTCHAT_POKER::Úp nhanh còn kịp < Tất tay đê < Tố to vào < Sợ rồi à < Mình xin Ngon thì zdô < Xin chào < Đen đừng hỏi
+
+JACKPOT::Nổ hũ
+BIG_WIN::Thắng lớn
+CASHOUT_CARD_CONFIRM::Bạn có chắc chắn muốn dùng #1 #2 đổi thẻ #3 mệnh giá #4 Đ?
+CASHOUT_CARD_CANCEL::Bạn có chắc chắn muốn hủy yêu cầu đổi thưởng thẻ #1 không?
+DATE_REQUIRED::(Vui lòng chọn ngày / tháng / năm)
+CARD_RECHARGE_DENOMINATION::Chọn mệnh giá thẻ nạp
+CARD_DENOMINATION_REQUIRED::Vui lòng chọn mệnh giá thẻ nạp
+FREE_SPIN_TURN::Bạn còn: #1 lượt quay miễn phí
+GAME_GREETING::Chúc bạn chơi game vui vẻ và gặp nhiều may mắn!
+JACKPOT_GREETING::Chúc mừng người chơi <color=yellow> #1 </color> nổ hũ game <color=yellow> #2 </color> mức cược <color=yellow> #3 </color> nhận được <color=yellow> #4 </color>
+SELECT_CARD_AUTO::Hệ thống tự động chọn thẻ bài ngẫu nhiên :
+SELECTING_CARD_AUTO::Đang tự động chọn bài ....
+SELECT_CARD_TIME_FINISH::Kết thúc chọn bài Sau : 
+OPEN_CARD_AUTO::Tự động vào mở bài trong :
+OPEN_AUTO::Hệ thống tự động mở trong :
+PLAYING_IN_TRIAL_MODE::Bạn đang ở chế độ chơi thử
+PLAYING_IN_REAL_MODE::Bạn đang ở chế độ chơi thật
+
+USERNAME::Tên tài khoản
+RECEIVER::Người nhận
+
+ADD_FRIEND::Thêm bạn
+DELETE_FRIEND::Xóa bạn
+WRONG_PASSWORD::Mật khẩu sai! Vui lòng nhập lại
+SEND_REPORT::Gửi tố cáo
+SEND_PM::Gửi tin nhắn
+SEND_FEEDBACK::Gửi góp ý
+FEEDBACK::Góp ý
+COMMENT::Phản hồi
+TOTAL_AMOUNT::TỔNG SỐ TIỀN BẠN NHẬN:
+
+CHAN_NAME::Chắn
+MAUBINH_NAME::Mậu binh
+PHOM_NAME::Phỏm
+TLMN_NAME::TLMN
+TLMN_NAME_FULL::Tiến Lên Miền Nam
+POKER_NAME::Poker
+XIDACH_NAME::Xì dách
+XITO_NAME::Xì tố
+XOCDIA_NAME::Xóc đĩa
+
+GAME_START::Bắt đầu
+GAME_PREPARE::Chuẩn bị
+GAME_DRAW::Hòa
+GAME_VIEW::Xem
+GAME_READY::Xong
+GAME_BET::Đặt cược
+GAME_WIN::Thắng
+GAME_LOSE::Thua
+WHITE_WIN::Thắng trắng
+CURRENCY::Sin
+BET_CONFIRM::Bấm Xác nhận để hoàn tất đặt cược
+SPIN_REMIND::Ấn quay để bắt đầu game
+CARD_EAT::Ăn
+SUMMARY::Tổng kết
+CARD_ARRANGING::Đang xếp...
+ARRANGE_DONE:: Xếp xong
+GAME_REQUEST_SENT::Đã gửi yêu cầu.
+GAME_BOARD_EXIT::Bạn đã đăng ký rời bàn
+GAME_BOARD_EXIT_CANCEL::Bạn đã hủy đăng ký rời bàn
+BOARD_FIRST::Nhất
+BOARD_SECOND::Nhì
+BOARD_THIRD::Ba
+BOARD_LAST::Bét
+BAND_SANH_RONG::Sảnh rồng
+BAND_SANH_RONG_DONG_HOA::Sảnh rồng đồng hoa
+BAND_LUC_PHE_BON::Lục phé bôn
+BAND_5DOI_1SAMCO::5 đôi & 1 sám cô
+BAND_3THUNG::3 cái thùng
+BAND_3SANH::3 cái sảnh
+BAND_THUNG_PHA_SANH_J::Thùng phá sảnh J
+BAND_THUNG_PHA_SANH::Thùng phá sảnh
+BAND_TU_QUY::Tứ quý
+BAND_CU_LU::Cù lũ
+BAND_THUNG::Thùng
+BAND_SANH::Sảnh
+BAND_SAM_CO::Sám cô
+BAND_THU::Thú
+BAND_DOI::Đôi
+BAND_DOI_J::Đôi J trở lên
+BAND_MAU_THAU::Mậu thầu
+BAND_CONG::CÓNG
+BAND_3DOITHONG::3 đôi thông
+BAND_4DOITHONG::4 đôi thông
+GAME_BLOCK_3BICH_FINISH::Chặn kết 3 bích
+GAME_3BICH_FINISH::Kết 3 bích
+CARD_R::Rô
+CARD_C::Cơ
+CARD_B::Bích
+CARD_T::Tép
+
+TX_TAI::Tài
+TX_XIU::Xỉu
+TX_LAST_TURN::Phiên gần nhất
+TX_BET_GATE::ĐẶT CỬA
+TX_BET_BALANCE::CÂN CỬA
+TX_WAITING::VUI LÒNG CHỜ
+TX_POINT::điểm
+TX_REFUND::Trả lại #1 #2 cửa #3
+
+BC_BETGATE_SUCCESS::Đặt cửa thành công
+
+TLMN_FIRE_CARD::Đánh
+TLMN_PASS_TURN::Bỏ qua
+TLMN_SORT_CARD::Sắp bài
+
+PHOM_TAKE::Bốc
+PHOM_REMOVE::Đánh
+PHOM_SEND_CARD::Gửi
+PHOM_AUTO_DROP_BAND::Hạ tự động
+PHOM_DROP_BAND::Hạ bài
+PHOM_U::Ù
+PHOM_NO_BAND::Móm
+
+MAUBINH_SOCHI::So chi
+MAUBINH_THANG3CHI::Thắng 3 chi
+MAUBINH_SAP3CHI::Sập 3 chi
+MAUBINH_BINHLUNG::Binh lủng
+
+POKER_FOLD::Úp
+POKER_RAISE::Tố
+POKER_CALL::Theo
+POKER_CHECK::Xem
+POKER_OPEN::Mở
+
+XOCDIA_CHAN::Chẵn
+XOCDIA_LE::Lẻ
+
+XIDACH_STAY::Dằn bài
+XIDACH_HIT::Bốc bài
+XIDACH_PASS_POINT::Đủ #1 điểm
+XIDACH_QUAC_POINT::Quắc #1 điểm
+XIDACH_NON_POINT::Non #1 điểm
+XIDACH_NGULINH::Ngũ linh #1 điểm
+XIDACH_XILAT::Xì lát
+XIDACH_XIBANG::Xì bàng

@@ -1,0 +1,153 @@
+
+redstinger.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 12
+  rotate: false
+  xy: 151, 385
+  size: 112, 59
+  orig: 112, 59
+  offset: 0, 0
+  index: -1
+Layer 12 copy
+  rotate: false
+  xy: 274, 451
+  size: 112, 59
+  orig: 112, 59
+  offset: 0, 0
+  index: -1
+Layer 12 copy 2
+  rotate: false
+  xy: 2, 120
+  size: 110, 57
+  orig: 110, 57
+  offset: 0, 0
+  index: -1
+Layer 12 copy 3
+  rotate: false
+  xy: 151, 326
+  size: 110, 57
+  orig: 110, 57
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 388, 472
+  size: 87, 38
+  orig: 87, 38
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 477, 479
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: true
+  xy: 81, 49
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 388, 455
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 477, 495
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 216, 297
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 2, 46
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: false
+  xy: 151, 277
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: false
+  xy: 2, 378
+  size: 147, 132
+  orig: 147, 132
+  offset: 0, 0
+  index: -1
+Layer 25 copy
+  rotate: false
+  xy: 2, 244
+  size: 147, 132
+  orig: 147, 132
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 63, 14
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 81, 81
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 124, 194
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 151, 252
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 2, 14
+  size: 59, 30
+  orig: 59, 30
+  offset: 0, 0
+  index: -1
+Polygon 1
+  rotate: false
+  xy: 151, 446
+  size: 121, 64
+  orig: 121, 64
+  offset: 0, 0
+  index: -1
+Polygon 1 copy
+  rotate: false
+  xy: 2, 179
+  size: 120, 63
+  orig: 120, 63
+  offset: 0, 0
+  index: -1

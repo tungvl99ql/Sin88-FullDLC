@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 310fbed38aa596b46a557af66649d4b5
+timeCreated: 1535599807
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: UTM Neutra
+  fontNames:
+  - UTM Neutra
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

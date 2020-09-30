@@ -1,0 +1,46 @@
+﻿﻿Luật Phỏm trên VIPGAME
+
+I. BỘ BÀI.
+• Trò chơi sử dụng bộ bài chuẩn 52 lá. Trong quá trình chơi, mỗi người chơi sẽ cố gắng tạo ra các phỏm. Các lá bài không thành phỏm sẽ tính thành điểm. Ai có ít điểm nhất thì thắng.
+
+II. LÁ BÀI.
+• Bộ 52 lá bài, mỗi quân bài gồm 2 phần số và chất, VD: 6♣ có số 6 và chất ♣(tép). Số của quân bài được tính thành số điểm. Xếp hạng điểm theo số như sau:
+K (13 điểm) > Q (12 điểm) > J (11 điểm) > 10 > 9 > ... > 3 > 2 > A (1 điểm).
+
+III. XẾP BÀI.
+• Phỏm: Là bộ ba hoặc bộ 4 lá cùng số hoặc sảnh 3 lá trở lên (cùng chất & số liên tiếp nhau).
+• Cạ: Là 2 lá bài có thể thêm một lá tạo thành phỏm.
+
+IV. CHIA BÀI.
+• Bộ bài 52 lá, mỗi người được chia 9 lá, riêng người đánh đầu được chia 10 lá, các lá bài còn lại sẽ xếp chồng để trên bàn.
+
+V. CÁCH CHƠI VÀ TÍNH ĐIỂM.
+1. Cách chơi.
+• Quyền đánh trước: Ván khời đầu là ngẫu nhiên, các ván tiếp theo người về nhất ở ván trước sẽ được đánh trước.
+• Bốc bài: Bốc một lá trên bàn.
+• Ăn bài: Ăn một lá bài rác người trước vừa đánh.
+• Ăn chốt: Ăn lá bài rác cuối cùng của người trước vừa hạ.
+• Tái phỏm: Người chơi đã hạ phỏm rồi, nhưng do có trường hợp bị ăn chốt nên vẫn được đánh tiếp.
+• Kết thúc:
++ Khi mỗi người hạ đủ 4 lá bài rác
++ Khi một người ù, không còn lá bài rác
+• Hạ phỏm: 
++ Hạ tự động: Máy sẽ tự hạ các phỏm trên bài.
++ Hạ bằng tay: Người chơi sẽ tự chọn phỏm hợp lệ để hạ.
+• Gửi bài: Người hạ sau nếu có phỏm sẽ được gửi các lá bài rác hợp phỏm với người hạ trước nhằm giảm thiểu số điểm.
+• Kết quả
+Sau khi đã hạ phỏm, người chơi sẽ cộng điểm các lá bài rác. Ai ít điểm nhất sẽ thắng.
+Ù: Thắng tuyệt đối, đạt 0 điểm.
+Móm: Không có phỏm nào, nếu 2 người cùng số điểm hoặc cùng móm: Ai hạ trước sẽ thắng.
+2. Tính tiền
+• Ăn bài: Người chơi ăn lá bài thứ nhất hoặc thứ 2 của đối phương vừa hạ sẽ được cộng 1 cược
+• Bị ăn bài: Người chơi bị đối thủ ăn lá bài vừa hạ ở lần 1 và lần 2 sẽ bị mất một cược.
+• Ăn chốt: Ăn lá bài hạ cuối được cộng 4 cược.
+• Bị ăn chốt: Người bị ăn chốt sẽ phải đền 4 cược cho người ăn.
+• Ăn tái phỏm: Trường hợp bị ăn chốt nên hạ phỏm rồi vẫn được bốc bài hoặc ăn tái phỏm (giống Ăn chốt)
+• Gửi tái: Sau khi bốc tái hoặc ăn tái, trước khi hạ bài người chơi vẫn có quyền gửi các lá bài rác hợp phỏm với người đã hạ trước.
+• Ù: Người khác phải đền 5 cược cho người Ù
+• Móm: Bị trừ 4 cược
+• Luật đền
++ Một người chơi để cho đối phương ăn 3 lá bài dẫn đến Ù, người chơi đó sẽ phải đền Ù cho cả làng.
++ Khi một người ăn cây chốt mà trong vòng hạ bài cuối đó có một người Ù thì người được ăn chốt đó phải đền Ù cho cả làng.
